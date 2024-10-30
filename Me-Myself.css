@@ -1,0 +1,17 @@
+ .u-section-1 {
+  background-image: url("images/IMG_69261.jpg");
+  background-position: 50% 50%;
+  min-height: 378px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 348px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 712px;
+}
